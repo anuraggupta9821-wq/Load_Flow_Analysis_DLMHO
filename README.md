@@ -22,3 +22,9 @@ This MATLAB project performs Load Flow Analysis on power systems using the Hippo
 
 ## Tools Used
 * **MATLAB** (main simulation and algorithm implementation)
+
+## Learning Outcomes
+- Applied HOA and modified DLMHO on both small (30-bus) and large (118-bus) systems.
+- Compared performance for three objectives: real power loss, voltage stability, and L-index.
+- Gained insights into differences between IEEE 30 and 118 bus arrangements.
+- Developed MATLAB coding, simulation, and optimization skills relevant to power systems engineering.
